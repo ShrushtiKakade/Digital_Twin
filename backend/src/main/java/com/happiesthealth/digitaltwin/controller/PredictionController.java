@@ -14,7 +14,6 @@ import java.util.*;
 @RestController
 @RequestMapping("/api/patients/{id}/predictions")
 @RequiredArgsConstructor
-@CrossOrigin(origins = "*")
 public class PredictionController {
     private final PredictionRepository predictionRepository;
     private final TwinService twinService;

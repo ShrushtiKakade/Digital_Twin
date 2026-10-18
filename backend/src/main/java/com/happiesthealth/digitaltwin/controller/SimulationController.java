@@ -13,7 +13,6 @@ import java.util.Map;
 @RestController
 @RequestMapping("/api/simulations")
 @RequiredArgsConstructor
-@CrossOrigin(origins = "*")
 public class SimulationController {
     private final SimulationService simulationService;
 

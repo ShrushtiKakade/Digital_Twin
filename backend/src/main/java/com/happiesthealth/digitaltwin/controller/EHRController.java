@@ -13,7 +13,6 @@ import java.util.Map;
 @RestController
 @RequestMapping("/api/ehr")
 @RequiredArgsConstructor
-@CrossOrigin(origins = "*")
 public class EHRController {
     private final EHRService ehrService;
 

@@ -11,7 +11,6 @@ import java.util.List;
 @RestController
 @RequestMapping("/api/patients/{id}/twin")
 @RequiredArgsConstructor
-@CrossOrigin(origins = "*")
 public class TwinController {
     private final TwinService twinService;
 

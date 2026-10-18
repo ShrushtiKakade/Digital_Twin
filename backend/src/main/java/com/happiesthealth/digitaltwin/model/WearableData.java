@@ -24,7 +24,7 @@ public class WearableData {
     @Column(nullable = false, length = 50)
     private String metricType; // HEART_RATE, STEPS, SPO2, SLEEP_HOURS, BLOOD_PRESSURE_SYS, BLOOD_PRESSURE_DIA
 
-    @Column(nullable = false)
+    @Column(name = "metric_value", nullable = false)
     private Double value;
 
     @Column(nullable = false, length = 50)

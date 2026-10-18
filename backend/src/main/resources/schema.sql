@@ -62,7 +62,7 @@ CREATE TABLE IF NOT EXISTS wearable_data (
     id BIGINT AUTO_INCREMENT PRIMARY KEY,
     patient_id BIGINT NOT NULL,
     metric_type VARCHAR(50) NOT NULL,
-    value DOUBLE NOT NULL,
+    metric_value DOUBLE NOT NULL,
     unit VARCHAR(50) NOT NULL,
     source VARCHAR(100) NOT NULL DEFAULT 'SIMULATOR',
     data_quality VARCHAR(30) NOT NULL DEFAULT 'VALID',

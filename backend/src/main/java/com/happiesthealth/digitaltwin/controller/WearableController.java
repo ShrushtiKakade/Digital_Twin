@@ -12,7 +12,6 @@ import java.util.*;
 @RestController
 @RequestMapping("/api/wearables")
 @RequiredArgsConstructor
-@CrossOrigin(origins = "*")
 public class WearableController {
     private final WearableService wearableService;
     private final WearableSimulatorService simulatorService;

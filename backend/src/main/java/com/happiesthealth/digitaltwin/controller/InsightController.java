@@ -11,7 +11,6 @@ import java.util.List;
 @RestController
 @RequestMapping("/api/patients/{id}/insights")
 @RequiredArgsConstructor
-@CrossOrigin(origins = "*")
 public class InsightController {
     private final HealthInsightRepository healthInsightRepository;
 
