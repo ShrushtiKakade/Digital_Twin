@@ -1,0 +1,15 @@
+record_type,code,description,numeric_value,unit,text_value,recorded_at
+DIAGNOSIS,I10,Essential Hypertension,,,Primary chronic diagnosis,2025-01-10T10:30:00Z
+DIAGNOSIS,E78.0,Pure Hypercholesterolemia,,,Secondary diagnosis,2025-01-10T10:30:00Z
+MEDICATION,RX-001,Amlodipine Besylate,5,mg,Oral - once daily in morning,2025-01-10T10:45:00Z
+MEDICATION,RX-002,Atorvastatin Calcium,10,mg,Oral - once daily at bedtime,2025-01-10T10:45:00Z
+LAB_RESULT,2160-0,Serum Creatinine,1.05,mg/dL,Normal baseline,2026-08-15T08:00:00Z
+LAB_RESULT,1558-6,Fasting Blood Glucose,104,mg/dL,Mildly elevated,2026-08-15T08:00:00Z
+LAB_RESULT,4548-4,Hemoglobin A1c,5.8,%,Pre-diabetes range,2026-08-15T08:00:00Z
+LAB_RESULT,2093-3,Total Cholesterol,215,mg/dL,Borderline high,2026-08-15T08:00:00Z
+LAB_RESULT,13457-7,LDL Cholesterol,138,mg/dL,Elevated,2026-08-15T08:00:00Z
+LAB_RESULT,2085-9,HDL Cholesterol,44,mg/dL,Low-normal,2026-08-15T08:00:00Z
+LAB_RESULT,2823-3,Serum Potassium,4.3,mEq/L,Normal,2026-08-15T08:00:00Z
+VITAL_SIGN,8480-6,Systolic Blood Pressure,142,mmHg,Recorded during clinic visit,2026-09-01T11:15:00Z
+VITAL_SIGN,8462-4,Diastolic Blood Pressure,88,mmHg,Recorded during clinic visit,2026-09-01T11:15:00Z
+VITAL_SIGN,8867-4,Resting Heart Rate,76,BPM,Clinic baseline,2026-09-01T11:15:00Z
