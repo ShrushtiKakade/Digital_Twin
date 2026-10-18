@@ -3,5 +3,5 @@ Write-Host "Starting Digital Twin Spring Boot Backend on http://localhost:8080..
 $env:JAVA_HOME = "C:\Program Files\Java\jdk-17"
 $env:Path = "$env:JAVA_HOME\bin;D:\DevTools\maven\bin;$env:Path"
 cd "$PSScriptRoot\backend"
-& "D:\DevTools\maven\bin\mvn.cmd" spring-boot:run
+& "D:\DevTools\maven\bin\mvn.cmd" spring-boot:run "-Dmaven.repo.local=D:\DevTools\.m2\repository"
 
