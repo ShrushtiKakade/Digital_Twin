@@ -3,3 +3,4 @@ Write-Host "Starting Digital Twin React Dashboard on http://localhost:3000..." -
 $env:Path = "D:\DevTools\nodejs;$env:Path"
 cd "$PSScriptRoot\frontend"
 & "D:\DevTools\nodejs\npm.cmd" run dev
+

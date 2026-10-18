@@ -10,3 +10,4 @@ import java.util.List;
 public interface SimulationRunRepository extends JpaRepository<SimulationRun, Long> {
     List<SimulationRun> findByPatientIdOrderByCreatedAtDesc(Long patientId);
 }
+

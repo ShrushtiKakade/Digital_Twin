@@ -51,3 +51,4 @@ public class EhrRecord {
         if (recordedAt == null) recordedAt = LocalDateTime.now();
     }
 }
+

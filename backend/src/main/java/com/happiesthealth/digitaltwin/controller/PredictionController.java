@@ -62,3 +62,4 @@ public class PredictionController {
         return ResponseEntity.ok(predictionRepository.save(p));
     }
 }
+

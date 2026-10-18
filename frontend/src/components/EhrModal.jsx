@@ -183,3 +183,4 @@ export default function EhrModal({ isOpen, onClose, patientId, ehrRecords, onImp
     </div>
   );
 }
+

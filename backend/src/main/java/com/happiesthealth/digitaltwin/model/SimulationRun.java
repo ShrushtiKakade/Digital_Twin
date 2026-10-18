@@ -51,3 +51,4 @@ public class SimulationRun {
         if (createdAt == null) createdAt = LocalDateTime.now();
     }
 }
+

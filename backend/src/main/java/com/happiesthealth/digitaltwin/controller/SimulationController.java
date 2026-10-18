@@ -49,3 +49,4 @@ public class SimulationController {
         return ResponseEntity.ok(simulationService.getSimulationsForPatient(patientId));
     }
 }
+

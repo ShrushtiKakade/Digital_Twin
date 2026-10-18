@@ -165,3 +165,4 @@ class InsightsEngine:
             })
 
         return insights
+

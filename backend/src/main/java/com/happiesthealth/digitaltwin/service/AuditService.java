@@ -34,3 +34,4 @@ public class AuditService {
         return auditLogRepository.findTop50ByOrderByCreatedAtDesc();
     }
 }
+

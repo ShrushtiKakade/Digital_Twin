@@ -119,3 +119,4 @@ class CardioRiskModel:
             ),
             "generatedAt": datetime.utcnow().isoformat()
         }
+

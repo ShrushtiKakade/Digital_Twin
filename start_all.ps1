@@ -21,3 +21,4 @@ Write-Host "- AI Service: http://localhost:8000" -ForegroundColor White
 Write-Host "- Backend API: http://localhost:8080" -ForegroundColor White
 Write-Host "- React Dashboard: http://localhost:3000" -ForegroundColor White
 Write-Host "`nOpen your browser at: http://localhost:3000" -ForegroundColor Cyan
+

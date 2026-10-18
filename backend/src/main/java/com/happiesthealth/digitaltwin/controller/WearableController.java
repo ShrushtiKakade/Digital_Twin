@@ -78,3 +78,4 @@ public class WearableController {
         return ResponseEntity.ok(generated);
     }
 }
+

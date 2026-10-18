@@ -160,3 +160,4 @@ The canonical schema is defined in `data/schema.sql` and includes:
 - `predictions`: Model versions, horizon, estimated probability, and CI.
 - `simulation_runs`: Hypothetical scenarios and comparative deltas.
 - `audit_logs`: Tamper-evident ledger.
+

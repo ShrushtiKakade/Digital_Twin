@@ -56,3 +56,4 @@ export const api = {
   // Audit Logs
   getAuditLogs: (patientId) => client.get(`/audit/patient/${patientId}`)
 };
+

@@ -46,3 +46,4 @@ public class TwinState {
         if (calculatedAt == null) calculatedAt = LocalDateTime.now();
     }
 }
+

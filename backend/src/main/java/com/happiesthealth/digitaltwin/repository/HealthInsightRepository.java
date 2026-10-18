@@ -10,3 +10,4 @@ import java.util.List;
 public interface HealthInsightRepository extends JpaRepository<HealthInsight, Long> {
     List<HealthInsight> findByPatientIdOrderByCreatedAtDesc(Long patientId);
 }
+

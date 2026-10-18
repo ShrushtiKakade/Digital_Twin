@@ -11,3 +11,4 @@ public interface EhrRecordRepository extends JpaRepository<EhrRecord, Long> {
     List<EhrRecord> findByPatientIdOrderByRecordedAtDesc(Long patientId);
     List<EhrRecord> findByPatientIdAndRecordTypeOrderByRecordedAtDesc(Long patientId, String recordType);
 }
+

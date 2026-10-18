@@ -52,3 +52,4 @@ public class Prediction {
         if (createdAt == null) createdAt = LocalDateTime.now();
     }
 }
+

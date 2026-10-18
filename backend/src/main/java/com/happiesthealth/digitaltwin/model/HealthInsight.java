@@ -53,3 +53,4 @@ public class HealthInsight {
         if (createdAt == null) createdAt = LocalDateTime.now();
     }
 }
+

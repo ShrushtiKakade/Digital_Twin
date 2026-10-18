@@ -89,3 +89,4 @@ export default function AuditModal({ isOpen, onClose, auditLogs }) {
     </div>
   );
 }
+

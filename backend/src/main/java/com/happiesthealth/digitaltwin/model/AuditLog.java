@@ -39,3 +39,4 @@ public class AuditLog {
         if (createdAt == null) createdAt = LocalDateTime.now();
     }
 }
+

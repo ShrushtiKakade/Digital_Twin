@@ -54,3 +54,4 @@ public class Patient {
         updatedAt = LocalDateTime.now();
     }
 }
+

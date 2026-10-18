@@ -12,3 +12,4 @@ public interface PredictionRepository extends JpaRepository<Prediction, Long> {
     Optional<Prediction> findFirstByPatientIdOrderByCreatedAtDesc(Long patientId);
     List<Prediction> findByPatientIdOrderByCreatedAtDesc(Long patientId);
 }
+

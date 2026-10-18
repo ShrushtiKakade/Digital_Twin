@@ -12,3 +12,4 @@ public interface TwinStateRepository extends JpaRepository<TwinState, Long> {
     Optional<TwinState> findFirstByPatientIdOrderByCalculatedAtDesc(Long patientId);
     List<TwinState> findByPatientIdOrderByCalculatedAtDesc(Long patientId);
 }
+

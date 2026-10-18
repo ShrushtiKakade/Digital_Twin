@@ -256,3 +256,4 @@ export default function WhatIfSimulator({ patient, twinState, onSimulationSucces
     </div>
   );
 }
+

@@ -164,3 +164,4 @@ export default function PredictionGauge({ prediction, onTriggerPrediction, loadi
     </div>
   );
 }
+

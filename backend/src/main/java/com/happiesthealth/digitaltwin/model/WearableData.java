@@ -50,3 +50,4 @@ public class WearableData {
         if (recordedAt == null) recordedAt = LocalDateTime.now();
     }
 }
+

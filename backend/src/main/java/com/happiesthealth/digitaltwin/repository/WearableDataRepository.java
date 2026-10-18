@@ -27,3 +27,4 @@ public interface WearableDataRepository extends JpaRepository<WearableData, Long
             @Param("since") LocalDateTime since
     );
 }
+
