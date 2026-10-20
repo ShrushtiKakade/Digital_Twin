@@ -137,7 +137,7 @@ The AI architecture contains three distinct components:
 ## 8. 15-20 Minute Demo Video Link
 
 > 🎥 **Walkthrough Video**:  
-> **[Watch 15-Minute System Demonstration on YouTube (Unlisted)](https://youtu.be/DEMO_VIDEO_LINK_HERE)**  
+> **[Watch 15-Minute System Demonstration on YouTube (Unlisted)](https://youtu.be/lddahsplH5E)**  
 > *(Note: Replace placeholder with your unlisted YouTube link before final submission deadline)*
 
 ### Demonstration Script Covered in Video:
