@@ -29,7 +29,7 @@ This repository fulfills all 12 mandatory criteria outlined in the Unstop challe
 - **Team Name**: Team Digital Twin
 - **Team Members**:
   - **Shrushti Kakade** (Lead Developer / Full-Stack & Architecture) — [GitHub Profile](https://github.com/ShrushtiKakade)
-  - **Chaitanya** (AI/ML & Systems Engineering)
+  - **Pranav Pawar** (AI/ML & Systems Engineering)
 - **Repository URL**: [https://github.com/ShrushtiKakade/Digital_Twin.git](https://github.com/ShrushtiKakade/Digital_Twin.git)
 
 ---
